@@ -1,0 +1,16 @@
+C:\Users\bbozh\source\repos\SSWU\SSWU\bin\Debug\net5.0\Task2and2.exe
+C:\Users\bbozh\source\repos\SSWU\SSWU\bin\Debug\net5.0\Task2and2.deps.json
+C:\Users\bbozh\source\repos\SSWU\SSWU\bin\Debug\net5.0\Task2and2.runtimeconfig.json
+C:\Users\bbozh\source\repos\SSWU\SSWU\bin\Debug\net5.0\Task2and2.runtimeconfig.dev.json
+C:\Users\bbozh\source\repos\SSWU\SSWU\bin\Debug\net5.0\Task2and2.dll
+C:\Users\bbozh\source\repos\SSWU\SSWU\bin\Debug\net5.0\ref\Task2and2.dll
+C:\Users\bbozh\source\repos\SSWU\SSWU\bin\Debug\net5.0\Task2and2.pdb
+C:\Users\bbozh\source\repos\SSWU\SSWU\obj\Debug\net5.0\Task2and2.csproj.AssemblyReference.cache
+C:\Users\bbozh\source\repos\SSWU\SSWU\obj\Debug\net5.0\Task2and2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bbozh\source\repos\SSWU\SSWU\obj\Debug\net5.0\Task2and2.AssemblyInfoInputs.cache
+C:\Users\bbozh\source\repos\SSWU\SSWU\obj\Debug\net5.0\Task2and2.AssemblyInfo.cs
+C:\Users\bbozh\source\repos\SSWU\SSWU\obj\Debug\net5.0\Task2and2.csproj.CoreCompileInputs.cache
+C:\Users\bbozh\source\repos\SSWU\SSWU\obj\Debug\net5.0\Task2and2.dll
+C:\Users\bbozh\source\repos\SSWU\SSWU\obj\Debug\net5.0\ref\Task2and2.dll
+C:\Users\bbozh\source\repos\SSWU\SSWU\obj\Debug\net5.0\Task2and2.pdb
+C:\Users\bbozh\source\repos\SSWU\SSWU\obj\Debug\net5.0\Task2and2.genruntimeconfig.cache
